@@ -11,3 +11,5 @@ sse_starlette
 bs4
 chromadb
 faiss-cpu
+wikipedia
+arxiv
