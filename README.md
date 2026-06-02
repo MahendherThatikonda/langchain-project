@@ -36,5 +36,6 @@ to agentic workflows and document Q&A systems.
 - RAG pipeline design (chunking, embedding, retrieval, generation)
 - Agentic workflows with dynamic tool selection
 - Switching between local and cloud-hosted LLMs
+  ## Keywords: AI, Artificial Intelligence
 - Document Q&A with multiple vector database backends
-- Prompt engineering and chain composition
+Prompt engineering and chain composition
